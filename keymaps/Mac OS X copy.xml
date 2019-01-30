@@ -1,0 +1,52 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="GotoTest" />
+  <action id="Groovy.Shell.Execute" />
+  <action id="Images.ShowThumbnails" />
+  <action id="KotlinShellExecute" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ScalaConsole.Execute">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="Switcher" />
+  <action id="ViewSource" />
+</keymap>
