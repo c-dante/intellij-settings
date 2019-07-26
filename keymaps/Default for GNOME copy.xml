@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="AddToFavoritesPopup" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -7,6 +8,10 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.PrevChange" />
   <action id="EditorSelectWord" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
