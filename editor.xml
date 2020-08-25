@@ -1,7 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="SMART_BACKSPACE" value="0" />
-    <option name="REFORMAT_ON_PASTE" value="4" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
