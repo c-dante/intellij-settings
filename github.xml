@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="3a13caed-c51b-4d7d-8bbf-81e6cc3d408d" name="federici">
+      <server useHttp="false" host="ghe.spotify.net" />
+    </account>
+  </component>
+</application>
