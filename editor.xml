@@ -3,6 +3,7 @@
     <option name="SMART_BACKSPACE" value="0" />
     <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
     <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="USE_ACCESSORS_IN_EQUALS_HASHCODE" value="true" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
