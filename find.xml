@@ -3,7 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.scala,*.py" />
     <mask>*.scala</mask>
+    <mask>*.scala,*.py</mask>
   </component>
 </application>
