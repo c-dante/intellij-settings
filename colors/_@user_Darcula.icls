@@ -3,7 +3,7 @@
     <property name="created">2019-07-26T11:40:08</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2021-10-08T10:28:51</property>
+    <property name="modified">2021-10-08T10:38:02</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -12,22 +12,42 @@
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="424347" />
+        <option name="BACKGROUND" value="3a3a2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="404745" />
+        <option name="BACKGROUND" value="313a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="464843" />
+        <option name="BACKGROUND" value="3a313a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="4b4541" />
+        <option name="BACKGROUND" value="2e3838" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -35,14 +55,34 @@
         <option name="BACKGROUND" value="4b403f" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
         <option name="BACKGROUND" value="4b3c3d" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_7_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="452828" />
+        <option name="BACKGROUND" value="442828" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="802020" />
       </value>
     </option>
   </attributes>

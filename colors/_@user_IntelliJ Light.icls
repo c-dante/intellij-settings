@@ -3,7 +3,7 @@
     <property name="created">2021-10-08T10:27:09</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-10-08T10:28:51</property>
+    <property name="modified">2021-10-08T10:38:02</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -273,22 +273,42 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f4f5fb" />
+        <option name="BACKGROUND" value="ffffe8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0fbf7" />
+        <option name="BACKGROUND" value="f0fff0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f9fcf5" />
+        <option name="BACKGROUND" value="fff0ff" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fff8f3" />
+        <option name="BACKGROUND" value="eafdfd" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -296,14 +316,34 @@
         <option name="BACKGROUND" value="fff1f0" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_5_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
         <option name="BACKGROUND" value="ffebec" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_6_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_7_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="b2b2b2" />
+      </value>
+    </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d9bcbc" />
+        <option name="BACKGROUND" value="d9bdbd" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_CUSTOM">
+      <value>
+        <option name="BACKGROUND" value="802020" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
