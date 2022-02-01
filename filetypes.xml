@@ -9,10 +9,10 @@
       <mapping pattern=".envrc-user" type="PLAIN_TEXT" />
       <mapping ext="hm" type="PLAIN_TEXT" />
       <mapping ext="puml" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Kptfile" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Kptfile" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
